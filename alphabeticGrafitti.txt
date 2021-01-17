@@ -1,0 +1,21 @@
+Graffiti - a form of modern barbaric painting. Vasya, as should be worthy descendants of the barbarians, also decided to address this very promising in terms of its business and to perpetuate their stay in school graffiti graffiti.
+
+Since, by drawing from Vasey had a solid "two", and he was still learning English after studying quite hard which gave him the pronunciation of the third letter of the alphabet, he decided to immortalize their meal in a study of this once difficult for him the object map of each stage connected with the study of the next letter corresponding to the inscription on a school wall.
+
+Artistic research Vasey after studying the 3-th and 7-th letters shown in the example output.
+
+Since every step to make the correct label Basil was getting harder and harder to write a program that will help him make a cheat sheet for the application of another pattern.
+
+Input
+
+The only number N (3 ≤ N ≤ 26) - number of studied English letters.
+
+Output
+
+The inscription on the wall, made after examining Vasya N letters of the alphabet.
+
+nput example #1						Output example #1
+3								a  a
+								a ab
+								aabc
+
